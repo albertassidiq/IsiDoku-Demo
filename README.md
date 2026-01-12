@@ -92,4 +92,10 @@ Buka [http://localhost:3000](http://localhost:3000) di browser Anda.
 
 ---
 
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [Apache License 2.0](LICENSE). Lihat file `LICENSE` untuk detail selengkapnya.
+
+---
+
 Dibuat dengan ❤️ oleh [Albert Assidiq](https://albertas.my.id)

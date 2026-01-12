@@ -51,7 +51,8 @@
       "Bash(Select-Object Name, Id)",
       "Bash(git remote add:*)",
       "Bash(pip install:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git branch:*)"
     ]
   }
 }
