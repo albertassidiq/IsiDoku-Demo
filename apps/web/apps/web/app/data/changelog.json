@@ -1,0 +1,142 @@
+[
+  {
+    "hash": "a3767c02ea40f0a62ee463600fc4254fd7144e23",
+    "shortHash": "a3767c0",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: add A* search bounds optimization and restore model selector"
+  },
+  {
+    "hash": "1478f0e99126953df047f17ea6696086260740e9",
+    "shortHash": "1478f0e",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "refactor: simplify flowchart shape mapping and AI chat routing"
+  },
+  {
+    "hash": "6b8592e2f13210561ec0aa57a36594e6cd7fc3d9",
+    "shortHash": "6b8592e",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: add locked state for Gemini 3.0 models"
+  },
+  {
+    "hash": "5eef4d752dbd47466b2d4ee14b25ed70d025a767",
+    "shortHash": "5eef4d7",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: add Gemini model selector to AI chat sidebar"
+  },
+  {
+    "hash": "da610d11404c79376bf228940650c7da24e9f01e",
+    "shortHash": "da610d1",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: add AI loading overlay and optimize arrow pathfinding"
+  },
+  {
+    "hash": "01e95c80f63941a86201fdd1cd45b835a92a94ea",
+    "shortHash": "01e95c8",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: add smart arrow position logic and enforce multi-pelaksana distribution"
+  },
+  {
+    "hash": "c271c2d99ac772dcebe36fc5c588fd494df2da5f",
+    "shortHash": "c271c2d",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "fix: add support for all flowchart shape types and fix arrow rendering"
+  },
+  {
+    "hash": "52b40f1be4b7bd4e0f62192c04cb5991fd7c2c75",
+    "shortHash": "52b40f1",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "chore: update changelog with logout button commit"
+  },
+  {
+    "hash": "3c7296fecdb76ce28f99665d4497b92f550c929b",
+    "shortHash": "3c7296f",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: add logout button to sidebar footer"
+  },
+  {
+    "hash": "4f822be64399b7aa48de122aa4bce60b59813601",
+    "shortHash": "4f822be",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "chore: update changelog with latest commits"
+  },
+  {
+    "hash": "1ac827ec9853fb0ab7ff2b0b5ec2f3c43c210f9e",
+    "shortHash": "1ac827e",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: convert SOP list from cards to table layout with search"
+  },
+  {
+    "hash": "520194e32c017b501fc0e8aa7145b821501f97b1",
+    "shortHash": "520194e",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: rename project to List SOP and implement delete functionality"
+  },
+  {
+    "hash": "8c53ff666eb920288c7a90b974545032b3cda837",
+    "shortHash": "8c53ff6",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "docs: final readme styling tweaks"
+  },
+  {
+    "hash": "1913197e4618cc469dd5ffd1ead1eac1e58896da",
+    "shortHash": "1913197",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "docs: update README to reflect IsiDoku branding"
+  },
+  {
+    "hash": "7b2e005073a8eb9afa81897578a0322ae547cfce",
+    "shortHash": "7b2e005",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "chore: fixes and automated changelog setup (retry)"
+  },
+  {
+    "hash": "1d808d8c371ad715959d09443cb1424bd2107993",
+    "shortHash": "1d808d8",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "docs: update README with setup instructions and changelog details"
+  },
+  {
+    "hash": "e882d5be1003d5ade409a4a1bf2281216f3c4aa8",
+    "shortHash": "e882d5b",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-11",
+    "message": "feat: add automated changelog, fix save UX, and enable RLS"
+  },
+  {
+    "hash": "c576f71ca8ff8ef5a84ece388a84ed23bf689d05",
+    "shortHash": "c576f71",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-10",
+    "message": "refactor: modularize SOP builder table components"
+  },
+  {
+    "hash": "7b2704d451cfb49edcbfd96f4bf36d330423e5b6",
+    "shortHash": "7b2704d",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-10",
+    "message": "feat: improve elbow routing with gutter and creep strategies"
+  },
+  {
+    "hash": "ac2dc6128e649008bde874ba7fb3141a8aeb36de",
+    "shortHash": "ac2dc61",
+    "author": "OliviaBernkastell",
+    "date": "2026-01-09",
+    "message": "feat: add undo/redo functionality to SOP builder"
+  }
+]

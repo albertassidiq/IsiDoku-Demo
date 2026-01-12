@@ -1,0 +1,1 @@
+ALTER TABLE "sops" ADD COLUMN "pdf_url" text;

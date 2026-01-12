@@ -1,0 +1,30 @@
+[
+  {
+    "date": "Januari 2026",
+    "title": "V 0.5 Alpha - Major Update",
+    "items": [
+      "Edit SOP & Save - Sekarang kamu bisa mengedit SOP yang sudah dibuat dan menyimpannya ke cloud.",
+      "PDF Management - Hapus dan upload ulang PDF referensi dengan mudah.",
+      "Smart Routing V2 - Algoritma panah yang lebih cerdas dan rapi.",
+      "Bug Fixes & Performance Improvements - Perbaikan stabilitas build dan auth."
+    ]
+  },
+  {
+    "date": "Desember 2025",
+    "title": "AI SOP Builder",
+    "items": [
+      "Generator SOP dengan AI - Ceritakan prosesnya, AI yang menggambar",
+      "Smart layout - Tabel bisa di-resize sesuai kebutuhan",
+      "Fitur chat AI - Interaktif dan responsif"
+    ]
+  },
+  {
+    "date": "Awal 2025",
+    "title": "Peluncuran Alpha",
+    "items": [
+      "Versi pertama IsiDoku",
+      "Dokumen generator dasar",
+      "Fitur export PDF"
+    ]
+  }
+]
